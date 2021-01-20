@@ -30,8 +30,8 @@ Bek’s is ready to put her skills of Neural Networks and deep learning models t
 
 ## Summary:
 
-The overall model performance was poor, considering all the effort to optimize the model, provided the resources to setup the model.  The classification between data was tricky but features to the model were at question with regards to how well it might corelate with outcome from whoever had received funding through Alphabet Soup.
+- The overall model performance was poor, considering all the effort to optimize the model, provided the resources to setup the model.  The classification between data was tricky but features to the model were at question with regards to how well it might corelate with outcome from whoever had received funding through Alphabet Soup.
 
-Decision trees might improve the quality of classification problem in neural network. Decision trees work through if-else conditions to visualize the data and classify according to the conditions. For any classification model to succeed, the input should be suitable for feature regards to corelated with the successful outcomes.
+- Decision trees might improve the quality of classification problem in neural network. Decision trees work through if-else conditions to visualize the data and classify according to the conditions. For any classification model to succeed, the input should be suitable for feature regards to corelated with the successful outcomes.
 
  
