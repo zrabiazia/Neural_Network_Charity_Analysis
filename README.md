@@ -1,10 +1,12 @@
 # Neural Network Model Analysis
 
 # Overview:
+
 Bek’s is ready to put her skills of Neural Networks and deep learning models to work to help foundation predict where to make investments. With the knowledge of neural networks and machine learning, will be creating a binary classifier, that can predict whether applicants will be successful if funded by Alphabet Soup.  From Alphabet Soup’s business team, received a csv contain more than 34,000 organizations that have received funding from Alphabet Soup over the years. The csv contains columns EIN and NAME, APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT, IS_SUCCESSFUL.
 
 
 # Results:
+
 ## Data Processing
 •	The target variable that used in AlphabetSoupCharity.ipynb and AlphabetSoupCharit_optimization.ipynb 1,2 and 3rd copy is “IS_SUCCESSFUL”.
 
@@ -27,6 +29,7 @@ Bek’s is ready to put her skills of Neural Networks and deep learning models t
 •	Deliverable 3 optimized copy 3, chose to use 5 hidden layers, 1000,800,600,400,200 neurons. Tanh as input activation function and sigmoid as output. Tanh can classify the input data between range of -1 to 1. Unfortunately, our model accuracy did not go up to 75% or higher. Loss 0.72% was higher than accuracy 0.46%. Adding more layers, increased neurons and different activation function did not help the model to thrive.
 
 ## Summary:
+
 The overall model performance was poor, considering all the effort to optimize the model, provided the resources to setup the model.  The classification between data was tricky but features to the model were at question with regards to how well it might corelate with outcome from whoever had received funding through Alphabet Soup.
 
 Decision trees might improve the quality of classification problem in neural network. Decision trees work through if-else conditions to visualize the data and classify according to the conditions. For any classification model to succeed, the input should be suitable for feature regards to corelated with the successful outcomes.
