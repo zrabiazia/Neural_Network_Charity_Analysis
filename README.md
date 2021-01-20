@@ -8,6 +8,7 @@ Bek’s is ready to put her skills of Neural Networks and deep learning models t
 # Results:
 
 ## Data Processing
+
 •	The target variable that used in AlphabetSoupCharity.ipynb and AlphabetSoupCharit_optimization.ipynb 1,2 and 3rd copy is “IS_SUCCESSFUL”.
 
 •	The deliverable 2, used APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT, IS_SUCCESSFUL as feature variables and drop EIN and NAME columns.
